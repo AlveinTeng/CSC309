@@ -1,0 +1,52 @@
+body {
+	background-color: #dce3ed;
+	margin-left: 20px;
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+
+table, td, th {
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+
+td, th {
+	min-width: 200px;
+}
+
+h4 {
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+.patron {
+	border: 1px solid black;
+	padding: 10px;
+	max-width: 1000px;
+	margin-top: 10px;
+}
+
+.patron p {
+	margin: 2px;
+}
+
+
+.patron span {
+	font-weight: bold;
+}
+
+#bookInfo p {
+	font-weight: bold;
+}
+
+#bookInfo span {
+	font-weight: normal;
+	color: black;
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
